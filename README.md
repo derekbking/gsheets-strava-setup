@@ -5,7 +5,7 @@
 3. Enable "Health-Related Data" ![image](https://user-images.githubusercontent.com/3951143/187322667-84f74e93-2c9a-4161-b492-f0487db8d23d.png)
 4. Go to your log sheet and select the tab with your name. ![image](https://user-images.githubusercontent.com/3951143/187323091-a3d2922c-abc7-4ab9-ab06-fe4c6b7ea2ad.png)
 5. Click "Sync Current Tab" in the Strava dropdown. ![image](https://user-images.githubusercontent.com/3951143/187323365-f1d1a3f1-b17e-4b60-88c9-0ce91e923ffc.png)
-6. An authorization prompt will be disabled. Click "Continue" ![image](https://user-images.githubusercontent.com/3951143/187323761-050f57da-5ec6-439a-867c-3f59c226ca8d.png)
+6. An authorization prompt will be displayed. Click "Continue" ![image](https://user-images.githubusercontent.com/3951143/187323761-050f57da-5ec6-439a-867c-3f59c226ca8d.png)
 7. Select your Google account ![image](https://user-images.githubusercontent.com/3951143/187323826-cc1caaba-9160-458f-94b2-87fc710fd98d.png)
 8. Click "Advanced" ![image](https://user-images.githubusercontent.com/3951143/187323920-02a6a37c-2439-4bb8-89a5-30eb10c9f23e.png)
 9. Click "Go to Strava Sync (unsafe)". The script we wrote to sync Strava has not been approved by Google which is why this step is necessary. (You will only need to do this once). ![image](https://user-images.githubusercontent.com/3951143/187324130-e10dd399-3f5e-491e-ae78-393605a65de8.png)
