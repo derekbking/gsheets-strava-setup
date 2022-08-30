@@ -9,7 +9,7 @@
 6. An authorization prompt will be displayed. Click "Continue" ![image](https://user-images.githubusercontent.com/3951143/187323761-050f57da-5ec6-439a-867c-3f59c226ca8d.png)
 7. Select your Google account ![image](https://user-images.githubusercontent.com/3951143/187323826-cc1caaba-9160-458f-94b2-87fc710fd98d.png)
 8. Click "Advanced" ![image](https://user-images.githubusercontent.com/3951143/187323920-02a6a37c-2439-4bb8-89a5-30eb10c9f23e.png)
-9. Click "Go to Strava Sync (unsafe)". The script we wrote to sync Strava has not been approved by Google which is why this step is necessary. (You will only need to do this once). ![image](https://user-images.githubusercontent.com/3951143/187324130-e10dd399-3f5e-491e-ae78-393605a65de8.png)
+9. Click "Go to Strava Sync (unsafe)". The script we wrote to pull Strava data into sheets has not been approved by Google which is why this step is necessary. (You will only need to do this once). ![image](https://user-images.githubusercontent.com/3951143/187324130-e10dd399-3f5e-491e-ae78-393605a65de8.png)
 10. Click "Allow" ![image](https://user-images.githubusercontent.com/3951143/187324185-01af12ce-64c9-45d8-81b9-b1d3cfda407c.png)
 11. Now click "Sync Current Tab" again.
 12. Click "Continue to Strava" ![image](https://user-images.githubusercontent.com/3951143/187324248-74378f93-d1bf-403c-a87d-a8327865ce63.png)
